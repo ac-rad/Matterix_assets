@@ -1,0 +1,21 @@
+# Python
+.DS_Store
+**/*.egg-info/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/*.pb
+
+# IDE
+**/.idea/
+**/.vscode/
+
+# Outputs
+**/output/*
+*.tmp
+
+# thumbnails
+**/.thumbs/*
+
+# ignore full-lab directory
+data/chem-sim-full-lab-asset
